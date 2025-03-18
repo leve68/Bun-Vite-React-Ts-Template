@@ -1,3 +1,9 @@
-Bun Vite React TS
+### Bun Vite React TS Template
 
-eslint prettier tailwind react-router-dom shadcn/ui lucide-react framer-motion
+- eslint
+- prettier
+- tailwind
+- react-router-dom
+- shadcn/ui
+- lucide-react
+- framer-motion

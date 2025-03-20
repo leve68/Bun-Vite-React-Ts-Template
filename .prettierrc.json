@@ -10,5 +10,8 @@
   "proseWrap": "never",
   "endOfLine": "auto",
   "jsxBracketSameLine": false,
-  "quoteProps": "consistent"
+  "quoteProps": "consistent",
+  "tailwindStylesheet": "./src/styles/index.css",
+  "tailwindConfig": "./tailwind.config.js",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
